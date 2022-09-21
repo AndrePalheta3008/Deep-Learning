@@ -11,8 +11,9 @@
 (OK)Questão 4
 (OK)Questão 5
 	(OK)para inicializar o git: git init
-	(OK)para verificar arquivos modificados: git diff
+	(OK)para verificar modificações feitas: git diff
 	(OK)para verificar aquivos a ser add: git status
 	(OK)para add arquivos modificados: git add "nome do arquivo"
 	(OK)para "commitar" os arquivos no repositorio: git commit -m "mensagem que deseja deixar no repositório"
 	(OK)para fazer o push do repositório: git push origin main
+(OK)Questão 6
