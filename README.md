@@ -17,3 +17,4 @@
 	(OK)para "commitar" os arquivos no repositorio: git commit -m "mensagem que deseja deixar no repositório"
 	(OK)para fazer o push do repositório: git push origin main
 (OK)Questão 6
+(OK) Questão 7
